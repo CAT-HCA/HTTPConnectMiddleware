@@ -1,0 +1,26 @@
+{
+  "name": "httpconnectmiddleware",
+  "version": "1.0.0",
+  "description": "In this Section we'll look at Connect Middleware.",
+  "main": "server.js",
+  "dependencies": {
+    "connect": "^3.7.0",
+    "connect-cookies": "^0.0.0",
+    "express-session": "^1.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CAT-HCA/HTTPConnectMiddleware.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CAT-HCA/HTTPConnectMiddleware/issues"
+  },
+  "homepage": "https://github.com/CAT-HCA/HTTPConnectMiddleware#readme"
+}
